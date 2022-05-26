@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/css2?family=Flamenco:wght@300;400&display=swap);
+@font-face {
+  font-family: "TsukushiBMaruGothic";
+  src: url("../fonts/TsukushiBMaruGothic.ttc") format("truetype");
+}
+body {
+  font-family: "Flamenco", "TsukushiBMaruGothic";
+}

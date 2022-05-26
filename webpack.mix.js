@@ -28,6 +28,7 @@ mix
   })
   .sass('resources/assets/scss/app.scss', path.resolve(__dirname, 'public/css'))
   .copy('resources/assets/images/', 'public/images/', false)
+  .copy('resources/assets/fonts/', 'public/fonts/', false)
   .options({
     processCssUrls: false,
   })
