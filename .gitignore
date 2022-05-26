@@ -5,3 +5,8 @@ coverage
 .DS_STORE
 .env
 tmp
+/public/fonts/
+/public/css/
+/public/js/
+/public/images/
+/public/mix-manifest.json
