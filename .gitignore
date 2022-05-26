@@ -10,3 +10,4 @@ tmp
 /public/js/
 /public/images/
 /public/mix-manifest.json
+package-lock.json
